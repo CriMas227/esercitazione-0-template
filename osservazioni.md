@@ -27,9 +27,9 @@ Esito dopo la modifica e spiegazione della correzione:Esito: output richiesto e'
 
 Quali file ho incluso nel commit e perché:Ho incluso hello.c e osservazioni.md poiche una era la sorgente utilizzata, non inserendo invece l`eseguibile il quale sarebbe stato ignorato da git, mentre l`altro file incluso e` il file con le nostre osservazioni
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub:sono andato su github>my repositories>esercitazione 0 template> hello.c (o osservazioni.md) oppure consultando la cronologia dei commit
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:git pull ha apportato le modifiche dalla repository online a quella locale, clone non e' necessario poiche la repository locale e' aggiornata gia' riguardo le ultime modifiche
 
 ## Step 2 — Eco: prima prova
 
