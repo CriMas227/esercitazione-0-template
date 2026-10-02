@@ -1,27 +1,27 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo:Ornato,Masucci
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi):Andrea Ornato AndreaOrnato ,Cristian Masucci CriMas227
 
-URL del repository condiviso:
+URL del repository condiviso:https://github.com/CriMas227/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2:Step 1 Andrea
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione:Il comando make non funzionava poiche inesistente percio' abbiamo usato gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato:Dopo aver eseguito con ./hello non e'stato stampato nulla
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile:Senza ulteriore compilazione, pur modificando la sorgente, l'eseguibile non si aggiorna automaticamente rispetto alle ultime modifiche, quindi eseguendo senza compilare verra eseguito la versione della sorgente pre modifiche
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: Richiesto output "Hello, computational physics!\n",non e' stato fornito nessun output
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione:Esito: output richiesto e' stato fornito,abbiamo aperto la sorgente con il comando emacs aggiunto il comando printf compilato con gcc ed eseguito
 
 ## Step 1 — Git
 
