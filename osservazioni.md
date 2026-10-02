@@ -25,7 +25,7 @@ Esito dopo la modifica e spiegazione della correzione:Esito: output richiesto e'
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché:Ho incluso hello.c e osservazioni.md poiche una era la sorgente utilizzata, non inserendo invece l`eseguibile il quale sarebbe stato ignorato da git, mentre l`altro file incluso e` il file con le nostre osservazioni
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
